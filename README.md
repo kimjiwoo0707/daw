@@ -142,7 +142,6 @@ Shifted Window 기반 구조를 통해 **다양한 스케일의 패턴을 효과
 #### 기술 스택
 - Backend: **Python Flask**  
 - Frontend: **HTML / CSS / JavaScript**  
-<img width="1557" height="851" alt="image" src="https://github.com/user-attachments/assets/53f77497-570c-4058-8d7f-477f296373c3" />
 
 #### 구현 목적
 - 모델 성능을 단순 수치로 끝내지 않고,  
@@ -158,4 +157,5 @@ Shifted Window 기반 구조를 통해 **다양한 스케일의 패턴을 효과
 
 
 ## 📰 웹 서비스 구현 영상
-[[▶ 영상 보기](wep.mp4)](https://github.com/jjiisoo/child-speech-classifier/blob/6788a99e662a9ea605ed4b36e6e09b10b4aa93de/wep.mp4)
+<img width="1557" height="851" alt="image" src="https://github.com/user-attachments/assets/53f77497-570c-4058-8d7f-477f296373c3" />  
+[[[▶ 영상 보기](wep.mp4)(https://github.com/kimjiwoo0707/daw/blob/1c5840e76b2a0682a87a099ee94c868a3455b7dd/%EC%95%84%EB%8F%99%20%EC%9D%8C%EC%84%B1%20%EB%B6%84%EC%84%9D%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EA%B0%9C%20%EC%98%81%EC%83%81.mp4)]
