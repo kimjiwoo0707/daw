@@ -62,6 +62,7 @@ ASHA(미국 언어청각협회)의 발달 기준을 참고하여 개월 수 기�
 
 
 <img width="149" height="149" alt="image" src="https://github.com/user-attachments/assets/682284fe-fbf0-4f51-ac4d-e9f240f16197" />  
+
 [Mel-Spectrogram 예시]
 
 
