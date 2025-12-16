@@ -61,7 +61,8 @@ ASHA(미국 언어청각협회)의 발달 기준을 참고하여 개월 수 기�
 - 클래스별 평균 발화 길이 및 스펙트럼 구조 차이 확인 가능
 
 
-![스펙트로그램 예시](./Mel-Spectrogram.PNG)
+![스펙트로그램 예시]<img width="149" height="149" alt="image" src="https://github.com/user-attachments/assets/ce9134f1-d2ca-4fab-8dd9-e22f6587600d" />
+
 ---
 ## 📰 모델 구조
 ### ResNet-34 기반 모델
