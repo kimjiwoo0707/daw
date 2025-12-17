@@ -1,4 +1,35 @@
 # 아동 음성 분석을 통한 SELSI 기준 표현 언어 발달 단계 분류
+---
+
+## Skills
+<div align="left">
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-FDE68A?style=for-the-badge&logo=python&logoColor=white"/>
+
+<!-- PyTorch -->
+<img src="https://img.shields.io/badge/PyTorch-FECACA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<!-- NumPy -->
+<img src="https://img.shields.io/badge/NumPy-A7F3D0?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<!-- scikit-learn -->
+<img src="https://img.shields.io/badge/scikit--learn-BFDBFE?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<!-- Audio Processing -->
+<img src="https://img.shields.io/badge/Audio_Processing-FBCFE8?style=for-the-badge&logo=audacity&logoColor=white"/>
+
+<!-- Computer Vision -->
+<img src="https://img.shields.io/badge/Computer_Vision-C7D2FE?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<!-- Vision Transformer -->
+<img src="https://img.shields.io/badge/Swin_Transformer-E9D5FF?style=for-the-badge&logo=google&logoColor=white"/>
+
+<!-- Flask -->
+<img src="https://img.shields.io/badge/Flask-BAE6FD?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</div>
+---
 
 ## 📰 연구배경
 아동의 언어 발달은 사회적·인지적 성장의 핵심 지표이며, 조기 진단 여부는 이후 학습 능력과 행동 발달에 큰 영향을 미친다. 국내에서는 SELSI가 표준 진단 도구로 널리 활용되지만 문항 기반 평가 특성상 전문가의 해석이 필요해 시간과 비용이 많이 든다는 한계가 있다. 또한 아동의 언어 발달과 관련된 기존 연구는 텍스트 기반 분석이 중심이어서 억양, 피치, 발화 속도 등 음성 신호의 중요한 정보를 충분히 반영하지 못한다. 
